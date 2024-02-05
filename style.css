@@ -1,0 +1,40 @@
+/* head - start*/
+div.head {
+	margin: 5% auto;
+	margin-top: 50%;
+	text-align: center;
+}
+
+p.head {
+	font-size: 130%;
+}
+/* head - end*/
+
+/* connection -- start*/
+table.connection {
+	width: 100%;
+	table-layout: fixed;
+	text-align: center;
+}
+
+input.facebook-button, .github-button, .matrix-button {
+	border: none;
+	border-radius: 30px;
+	color: #fefefeff;
+	font-size: 125%;
+	margin: 2% 2.5%;
+	padding: 5%;
+	width: 95%;
+}
+input.facebook-button {
+	background-color: #014275ff;
+}
+
+input.github-button {
+	background-color: #263238ff;
+}
+
+input.matrix-button {
+	background-color: #212121ff;
+}
+/* connection -- end */
