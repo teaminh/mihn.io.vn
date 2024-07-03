@@ -17,7 +17,7 @@ table.connection {
 	text-align: center;
 }
 
-input.facebook-button, .github-button, .matrix-button {
+input.facebook-button, .github-button {
 	border: none;
 	border-radius: 30px;
 	color: #fefefeff;
@@ -32,9 +32,5 @@ input.facebook-button {
 
 input.github-button {
 	background-color: #263238ff;
-}
-
-input.matrix-button {
-	background-color: #212121ff;
 }
 /* connection -- end */
